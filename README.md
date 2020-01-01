@@ -1,3 +1,3 @@
 # mynewrepo
 A repo for connecting Github and Git together.
-This is only for Google Code-in.
+This is for Google-Code in 2019
